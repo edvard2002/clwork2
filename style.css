@@ -2,7 +2,7 @@
 	margin: 0;    
 }
 #header {
-	color: white;
+  color: white;
   position: relative;
   width: 100%;
   height: 320px;
@@ -16,7 +16,6 @@
   top: 249px;
   width: 350px;
   height: 19px;
-  z-index: 12;
 }
 .check_icon2 {
   background-image: url("check icon.png");
@@ -25,7 +24,6 @@
   top: 213px;
   width: 300px;
   height: 19px;
-  z-index: 11;
 }
 .check_icon3 {
   background-image: url("check icon.png");
@@ -34,7 +32,6 @@
   top: 177px;
   width: 300px;
   height: 19px;
-  z-index: 10;
 }
 .check_icon4 {
   background-image: url("check icon.png");
@@ -43,7 +40,6 @@
   top: 143px;
   width: 300px;
   height: 19px;
-  z-index: 9;
 }
 .Product_name {
   font-size: 50px;
@@ -55,7 +51,6 @@
   position: absolute;
   left: 50px;
   top: 61.5px;
-  z-index: 7;
 }
 .Shape_9 {
   background-color: rgb(255, 255, 255);
@@ -71,7 +66,7 @@
 
 
 #about {
-  position: absolute;
+  position: relative;
   width: 100%;
   height: 345px;
   background-color: #f4e5e5;
@@ -93,7 +88,6 @@
   position: absolute;
   left: 50px;
   top: 50px;
-  z-index: 18;
 }
 .Pariatur {
   font-size: 16px;
@@ -103,10 +97,9 @@
   text-align: left;
   position: absolute;
   left: 50px;
-  top: 535.269px;
+  top: 220px;
   width: 653px;
   height: 60px;
-  z-index: 17;
 }
 .Lorem {
   font-size: 16px;
@@ -119,6 +112,263 @@
   top: 100px;
   width: 649px;
   height: 63px;
-  z-index: 16;
 }
 
+
+/*dignity////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////*/
+
+#dignity {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background-color: #989898;
+}
+.right_items {
+  position: absolute;
+  width: 100%;
+  height: 312px;
+}
+.item {
+  position: absolute;
+  width: 100%;
+  height: 125px;
+}
+.plus_icon {
+  position: absolute;
+  width: 100%;
+  height: 3186px;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 646px;
+  top: 977px;
+  width: 20px;
+  height: 20px;
+}
+.Shape_3 {
+  background-color: rgb(68, 81, 97);
+  position: absolute;
+  left: 640px;
+  top: 971px;
+  width: 32px;
+  height: 32px;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(51, 51, 51);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 680px;
+  top: 993.269px;
+  width: 526px;
+  height: 63px;
+}
+.item {
+  position: absolute;
+  width: 100%;
+  height: 125px;
+}
+.plus_icon {
+  position: absolute;
+  width: 100%;
+  height: 3186px;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 646px;
+  top: 878px;
+  width: 20px;
+  height: 20px;
+}
+.Shape_3 {
+  background-color: rgb(68, 81, 97);
+  position: absolute;
+  left: 640px;
+  top: 872px;
+  width: 32px;
+  height: 32px;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(51, 51, 51);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 680px;
+  top: 894.269px;
+  width: 526px;
+  height: 63px;
+}
+.item {
+  position: absolute;
+  width: 100%;
+  height: 125px;
+}
+.plus_icon {
+  position: absolute;
+  width: 100%;
+  height: 3186px;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 646px;
+  top: 780px;
+  width: 20px;
+  height: 20px;
+}
+.Shape_3 {
+  background-color: rgb(68, 81, 97);
+  position: absolute;
+  left: 640px;
+  top: 774px;
+  width: 32px;
+  height: 32px;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(51, 51, 51);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 680px;
+  top: 796.269px;
+  width: 526px;
+  height: 63px;
+}
+.left_items {
+  position: absolute;
+  width: 100%;
+  height: 3186px;
+}
+.item {
+  position: absolute;
+  width: 100%;
+  height: 125px;
+}
+.plus_icon {
+  position: absolute;
+  width: 100%;
+  height: 3186px;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 56px;
+  top: 977px;
+  width: 20px;
+  height: 20px;
+}
+.Shape_3 {
+  background-color: rgb(68, 81, 97);
+  position: absolute;
+  left: 50px;
+  top: 971px;
+  width: 32px;
+  height: 32px;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(51, 51, 51);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 90px;
+  top: 993.269px;
+  width: 526px;
+  height: 63px;
+}
+.item {
+  position: absolute;
+  width: 100%;
+  height: 125px;
+}
+.plus_icon {
+  position: absolute;
+  width: 100%;
+  height: 3186px;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 56px;
+  top: 878px;
+  width: 20px;
+  height: 20px;
+}
+.Shape_3 {
+  background-color: rgb(68, 81, 97);
+  position: absolute;
+  left: 50px;
+  top: 872px;
+  width: 32px;
+  height: 32px;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(51, 51, 51);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 90px;
+  top: 894.269px;
+  width: 526px;
+  height: 63px;
+}
+.item {
+  position: absolute;
+  width: 100%;
+  height: 125px;
+}
+.plus_icon {
+  position: absolute;
+  width: 100%;
+  height: 3186px;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 56px;
+  top: 780px;
+  width: 20px;
+  height: 20px;
+}
+.Shape_3 {
+  background-color: rgb(68, 81, 97);
+  position: absolute;
+  left: 50px;
+  top: 774px;
+  width: 32px;
+  height: 32px;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(51, 51, 51);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 90px;
+  top: 796.269px;
+  width: 526px;
+  height: 63px;
+}
+.Dignity_and_pluses_product {
+  font-size: 30px;
+  font-family: "Arial";
+  color: rgb(68, 81, 97);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 462px;
+  top: 746.255px;
+}
