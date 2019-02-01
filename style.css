@@ -1,6 +1,124 @@
 *{
-	padding-left: 50px;
-	padding-right: 50px;
-	padding-top: 17px;
-    
+	margin: 0;    
 }
+#header {
+	color: white;
+  position: relative;
+  width: 100%;
+  height: 320px;
+  z-index: 13;
+  background-color: #445161;
+}
+.check_icon1 {
+  background-image: url("check icon.png");
+  position: absolute;
+  left: 50px;
+  top: 249px;
+  width: 350px;
+  height: 19px;
+  z-index: 12;
+}
+.check_icon2 {
+  background-image: url("check icon.png");
+  position: absolute;
+  left: 50px;
+  top: 213px;
+  width: 300px;
+  height: 19px;
+  z-index: 11;
+}
+.check_icon3 {
+  background-image: url("check icon.png");
+  position: absolute;
+  left: 50px;
+  top: 177px;
+  width: 300px;
+  height: 19px;
+  z-index: 10;
+}
+.check_icon4 {
+  background-image: url("check icon.png");
+  position: absolute;
+  left: 51px;
+  top: 143px;
+  width: 300px;
+  height: 19px;
+  z-index: 9;
+}
+.Product_name {
+  font-size: 50px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  left: 50px;
+  top: 61.5px;
+  z-index: 7;
+}
+.Shape_9 {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  left: 830px;
+  top: 50px;
+  width: 470px;
+  height: 214px;
+}
+
+
+/*about  ///////////////////////////////////////////////////////////*/
+
+
+#about {
+  position: absolute;
+  width: 100%;
+  height: 345px;
+  background-color: #f4e5e5;
+}
+.video{
+  background-color: rgb(68, 81, 97);
+  position: absolute;
+  left: 870px;
+  top: 50px;
+  width: 430px;
+  height: 214px;
+}
+.About_your_product {
+  font-size: 30px;
+  font-family: "Arial";
+  color: rgb(68, 81, 97);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  z-index: 18;
+}
+.Pariatur {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(51, 51, 51);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 50px;
+  top: 535.269px;
+  width: 653px;
+  height: 60px;
+  z-index: 17;
+}
+.Lorem {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(51, 51, 51);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 50px;
+  top: 100px;
+  width: 649px;
+  height: 63px;
+  z-index: 16;
+}
+
